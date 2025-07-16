@@ -52,3 +52,26 @@ php bin/console doctrine:migrations:migrate
 
 # 6. Lancer le serveur local
 symfony server:start
+```
+
+---
+
+## 🤝 Auteurs
+
+👨‍💻 **Réalisé par** : Mohamed Yawina  
+📧 **Contact** : mohamed.yawina@example.com  
+📚 **Statut** : Étudiant en ingénierie informatique – 3ème année – 2024/2025
+
+---
+
+## 🔗 Liens utiles
+
+- [Symfony Docs](https://symfony.com/doc)  
+- [Doctrine ORM](https://www.doctrine-project.org/)  
+- [Bootstrap](https://getbootstrap.com/)
+
+---
+
+## ✅ Licence
+
+Ce projet est publié sous licence **MIT** – libre d'utilisation à des fins pédagogiques.
