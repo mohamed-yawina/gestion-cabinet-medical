@@ -59,7 +59,7 @@ symfony server:start
 ## 🤝 Auteurs
 
 👨‍💻 **Réalisé par** : Mohamed Yawina  
-📧 **Contact** : mohamed.yawina@example.com  
+📧 **Contact** : mohamed.yawina1@gmail.com  
 📚 **Statut** : Étudiant en ingénierie informatique – 3ème année – 2024/2025
 
 ---
